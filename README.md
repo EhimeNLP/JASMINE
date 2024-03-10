@@ -18,4 +18,4 @@
 言語処理学会第30回年次大会, p255-259, 2024. [[PDF](https://anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P1-21.pdf)]
 
 # 公開ライセンス
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)
+Creative Commons Attribution 4.0 International License (CC BY 4.0)
